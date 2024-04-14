@@ -19,3 +19,12 @@ I put around 2 hours of time into this project, and as the email said it should 
 
 _I think the part I found most difficult was Pythons syntax, because it is very importent to get your tabs right.
 Normally I would love to add swagger for documentation but I havent done this because I had a really busy week._
+
+## How to use the API
+
+_1. Download my repository \r
+1. Download my repository \r_
+
+## Where to use the API for
+_I made this Api for articles, a article has a title, a description and maby a uri for a photo.
+Everytime you push a article to the database the creationdate is added, so people can see how old the article is_
