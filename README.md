@@ -36,7 +36,42 @@ py -m pipenv shell
 ```
 ``` 
 flask run
+```
+
+### API endpoints
+_This api has 3 endpoints you could use:_
+
+**POST**
 ``` 
+http://127.0.0.1:5000/items
+``` 
+_Use this to post a new item_
+
+**PUT**
+``` 
+http://127.0.0.1:5000/items/ID
+``` 
+_Use this to edit a existing item, you can add the editted JSON into the body of the request and the Id of the item in the url_
+
+**GET**
+``` 
+http://127.0.0.1:5000/items
+``` 
+_this gives a list of all items_
+
+**GET/ID**
+``` 
+http://127.0.0.1:5000/items/ID
+``` 
+_Gets one item by the ID posted in the URL_
+
+
+**DELETE**
+``` 
+http://127.0.0.1:5000/items/ID
+``` 
+_Deletes one item by the ID posted in the URL_
+
 ## Where to use the API for
 _I made this Api for articles, a article has a title, a description and maby a uri for a photo.
 Everytime you push a article to the database the creationdate is added, so people can see how old the article is_
