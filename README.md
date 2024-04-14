@@ -8,7 +8,7 @@
 <a href="mailto:jordy.huijgens@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail me!"></a>
 </p>
 
-# Small Introduction
+## Small Introduction
 _Hello there! I'm Jordy Huijgens, and I'm exited to present my work on this Python/flask assignment. I've embarked on this assignment with the goal of showcasing my skills and enthusiasm for joining your team. It was very fun 
 and actually not that hard to make a API in Python, I have never done this before, I normally make my API's in Node.js. So for the build I did use a tutorial.
 Feel free to reach out if you have any questions or require further clarification on any aspect of my work. C;
