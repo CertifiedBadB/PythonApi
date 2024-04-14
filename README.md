@@ -40,3 +40,5 @@ flask run
 ## Where to use the API for
 _I made this Api for articles, a article has a title, a description and maby a uri for a photo.
 Everytime you push a article to the database the creationdate is added, so people can see how old the article is_
+
+
