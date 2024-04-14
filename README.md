@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 _4. now you can just run the application, I had to run it like this:_
 ``` 
-py -m pipenv 
+py -m pipenv shell
 ```
 ``` 
 flask run
