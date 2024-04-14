@@ -59,7 +59,7 @@ http://127.0.0.1:5000/items
 ``` 
 _this gives a list of all items_
 
-**GET/ID**
+**GET 1**
 ``` 
 http://127.0.0.1:5000/items/ID
 ``` 
