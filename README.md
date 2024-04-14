@@ -22,9 +22,21 @@ Normally I would love to add swagger for documentation but I havent done this be
 
 ## How to use the API
 
-_1. Download my repository \r
-1. Download my repository \r_
+_1. Download my repository_
 
+_2. Change my example.env into a .env file_
+
+_3. Install the requirements by running _
+``` 
+pip install -r requirements.txt
+```
+_4. now you can just run the application, I had to run it like this:_
+``` 
+py -m pipenv 
+```
+``` 
+flask run
+``` 
 ## Where to use the API for
 _I made this Api for articles, a article has a title, a description and maby a uri for a photo.
 Everytime you push a article to the database the creationdate is added, so people can see how old the article is_
